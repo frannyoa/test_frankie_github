@@ -1,1 +1,2 @@
 Just testing git commands - add, commit and push.
+git add stages your changes locally.
